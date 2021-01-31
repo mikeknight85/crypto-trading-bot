@@ -5,7 +5,7 @@ c.symbols = []
 // bitfinex
 let x = [
     'BTCUSD', 'EOSUSD', 'LTCUSD', 'ETHUSD', 'ETCUSD', 'NEOUSD', 'IOTUSD', 'XMRUSD', 'XRPUSD', 'DSHUSD', 'ZECUSD', 'OMGUSD', 'ETPUSD', 'ZRXUSD', 'BSVUSD',
-    'EOSBTC', 'LTCBTC', 'ETHBTC', 'ETCBTC', 'NEOBTC', 'IOTBTC', 'XMRBTC', 'XRPBTC', 'DSHBTC', 'ZECBTC', 'OMGBTC', 'ETPBTC', 'ZRXBTC',
+    'EOSBTC', 'LTCBTC', 'ETHBTC', 'ETCBTC', 'NEOBTC', 'IOTBTC', 'XMRBTC', 'XRPBTC', 'DSHBTC', 'ZECBTC', 'OMGBTC', 'ETPBTC', 'ZRXBTC','DOGEUSDT',
 ]
 
 x.forEach((pair) => {
@@ -35,7 +35,7 @@ x.forEach((pair) => {
 })
 
 let z = [
-    'BTCUSDT', 'XLMUSDT', 'BNBBTC', 'BNBUSDT'
+    'BTCUSDT', 'XLMUSDT', 'BNBBTC', 'BNBUSDT', 'DOGEUSDT'
 ]
 
 z.forEach((pair) => {
